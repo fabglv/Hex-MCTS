@@ -10,13 +10,16 @@ The first player to create a complete path connecting their sides wins.
 
 For more info: https://en.wikipedia.org/wiki/Hex_(board_game)
 
+## References
+Stuart Russell, Peter Norvig: Artificial Intelligence: A Modern Approach (4th Edition).
+
 ## File Structure
 
 ```
-hex_game/
-├── main.py                  # Main game entry point
-├── constants.py             # Game and UI constants
-├── game_logic.py            # Game class and game state logic
-├── interface.py             # UI components
-├── mcts.py                  # MCTS algorithm implementation
-└── utils.py                 # Utility functions for display and game control
+main.py                  # Main game entry point  
+constants.py             # Game and UI constants  
+game_logic.py            # Game class and game state logic  
+interface.py             # UI components  
+mcts.py                  # MCTS algorithm implementation  
+utils.py                 # Utility functions for display and game control  
+```
