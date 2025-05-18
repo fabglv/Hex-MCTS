@@ -23,3 +23,10 @@ interface.py             # UI components
 mcts.py                  # MCTS algorithm implementation  
 utils.py                 # Utility functions for display and game control  
 ```
+
+## Libraries used
+- **pygame** – For rendering the Hex board and handling user interaction.
+- **math** – Python's standard math library, used for mathematical operations.
+- **random** – Python's standard module for generating random numbers.
+- **copy (deepcopy)** – For deep copying game state objects.
+- **time** – Used for tracking elapsed time (in MCTS simulations).
