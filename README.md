@@ -10,9 +10,6 @@ The first player to create a complete path connecting their sides wins.
 
 For more info: https://en.wikipedia.org/wiki/Hex_(board_game)
 
-## References
-Stuart Russell, Peter Norvig: Artificial Intelligence: A Modern Approach (4th Edition).
-
 ## File Structure
 
 ```
@@ -30,3 +27,6 @@ utils.py                 # Utility functions for display and game control
 - **random** – Python's standard module for generating random numbers.
 - **copy (deepcopy)** – For deep copying game state objects.
 - **time** – Used for tracking elapsed time (in MCTS simulations).
+
+## References
+Stuart Russell, Peter Norvig: Artificial Intelligence: A Modern Approach (4th Edition).
