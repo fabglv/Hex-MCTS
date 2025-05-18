@@ -8,6 +8,8 @@ Hex is a two-player board game played on a hexagonal grid. Players take turns pl
 - Player 2 (Red) tries to connect the top and bottom sides of the board
 The first player to create a complete path connecting their sides wins.
 
+For more info: https://en.wikipedia.org/wiki/Hex_(board_game)
+
 ## File Structure
 
 ```
